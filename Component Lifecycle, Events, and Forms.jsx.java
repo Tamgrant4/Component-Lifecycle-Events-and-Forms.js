@@ -102,6 +102,3 @@ const CharacterDetail = ({ character }) => {
 };
 
 export default CharacterDetail;
-
-npm install
-npm start
